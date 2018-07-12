@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="zh-mo" xml:lang="zh-mo" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\randonie\Documents\My Translated Projects\SSH_test1.liprjf" SourceControlDatabase="C:\Users\randonie\Documents\My Translated Projects\SSH_test1.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="ceeef157-dce3-49eb-b412-cd0ede4157f5">
+    <ProjectFile Source="Target/NewProject73.flprj" Target="Target/NewProject73.flprj" />
+</LingoProject>
